@@ -1,0 +1,6 @@
+labelme
+tensorflow<2.11
+tensorflow-gpu
+opencv-python
+matplotlib
+albumentations
